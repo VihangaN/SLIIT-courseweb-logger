@@ -1,0 +1,14 @@
+C:\Users\vihan\source\repos\sliit\sliit\bin\Debug\sliit.exe.config
+C:\Users\vihan\source\repos\sliit\sliit\bin\Debug\sliit.exe
+C:\Users\vihan\source\repos\sliit\sliit\bin\Debug\sliit.pdb
+C:\Users\vihan\source\repos\sliit\sliit\bin\Debug\sliit.xml
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.vbprojResolveAssemblyReference.cache
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.Form1.resources
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.Resources.resources
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.vbproj.GenerateResource.Cache
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.vbproj.CoreCompileInputs.cache
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.exe
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.xml
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.pdb
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.vbproj.ResolveComReference.cache
+C:\Users\vihan\source\repos\sliit\sliit\obj\Debug\sliit.UserControl1.resources
